@@ -1,4 +1,4 @@
-# 🔒 AICTE Project - Image-Based Steganography Tool
+# 🔒 Image-Based Steganography Tool
 ![Image](https://github.com/user-attachments/assets/d333da07-d335-4ad2-b1cc-fa05751cb183)
 
 
