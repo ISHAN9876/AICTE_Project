@@ -1,5 +1,5 @@
 # 🔒 AICTE Project - Image-Based Steganography Tool
-[![Video Thumbnail](https://github.com/user-attachments/assets/e011bfd7-9e39-4c63-81ec-4912ed0374f1)
+![Image](https://github.com/user-attachments/assets/d333da07-d335-4ad2-b1cc-fa05751cb183)
 
 
 ## 📌 Overview
