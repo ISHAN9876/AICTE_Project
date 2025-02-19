@@ -1,5 +1,5 @@
 # 🔒 AICTE Project - Image-Based Steganography Tool
-![Red Hat Hacker](A_mysterious_Red_Hat_hacker_wearing_a_dark_hoodie_.png)
+[![Video Thumbnail](https://github.com/user-attachments/assets/e011bfd7-9e39-4c63-81ec-4912ed0374f1)
 
 
 ## 📌 Overview
