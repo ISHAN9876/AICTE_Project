@@ -109,15 +109,7 @@ This project is open-source under the **MIT License**. Feel free to modify and u
 
 ---
 
-## 👨‍💻 Author
 
-Developed by **Ishan**
-
-- GitHub: [ISHAN9876](https://github.com/ISHAN9876)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/ishankumra)
-- Email: [ishankumra13579@gmail.com](mailto\:ishankumra13579@gmail.com)
-
----
 
 ## ⭐ Contributions
 
